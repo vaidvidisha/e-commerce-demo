@@ -1,0 +1,10 @@
+export const getRingDetails     = 'GET_RING_DETAILS';
+export const setRingDetails     = 'SET_RING_DETAILS';
+export const getStoneQuality    = 'GET_STONE_QUALITY';
+export const setStoneQuality    = 'SET_STONE_QUALITY';
+export const getCaratWeight     = 'GET_CARAT_WEIGHT';
+export const setCaratWeight     = 'SET_CARAT_WEIGHT';
+export const getMetalType       = 'GET_METAL_TYPE';
+export const setMetalType       = 'SET_METAL_TYPE';
+export const getRingSize        = 'GET_RING_SIZE';
+export const setRingSize        = 'SET_RING_SIZE';
